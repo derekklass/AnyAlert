@@ -1,0 +1,6 @@
+framework module Pods_AnyAlert {
+  umbrella header "Pods-AnyAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
